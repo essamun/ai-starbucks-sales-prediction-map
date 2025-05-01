@@ -48,7 +48,7 @@ It integrates **Random Forest regression modeling** with **interactive geospatia
 ### 3. Model Performance
 > Train and Test Set Results
 
-![Random Forest Model Performance](images/model_results.png)
+![Random Forest Model Performance](images/model_metrics.png)
 
 ---
 
