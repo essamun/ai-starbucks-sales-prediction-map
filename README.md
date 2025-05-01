@@ -53,9 +53,9 @@ It integrates **Random Forest regression modeling** with **interactive geospatia
 ---
 
 ## About Me
-I am an Egyptian-Canadian engineer and programmer, with a Master's degree in Geomatics (GIS and Remote Sensing) from Cairo University.  
+I am a Canadian machine learning and geospatial data professional and programmer, with a Master's degree in Geomatics (GIS and Remote Sensing).  
 I have over 20 years of experience in Canada and Egypt in software development (.NET, SQL Server, GIS, Image Processing), project management (PMP Certified), and more recently **AI and Machine Learning**.  
-In 2025, I completed the Google Machine Learning Crash Course and multiple Kaggle certifications, transitioning toward a career in **AI/ML engineering** with strong spatial analysis capabilities.
+I completed multiple Google and Kaggle Machine Learning Crash Courses with certifications. Transitioning fully into AI/ML roles, leveraging my unique background in spatial analysis and large-scale software systems to solve complex predictive problems.
 
 ---
 
